@@ -30,3 +30,35 @@ $${\color{gray}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}
 | $$\color{green}BlynkApp$$ | $$\color{red}ThinkSpeak$$ | $$\color{red}ThinkSpeak$$ |
 | --- | --- | --- |
 | ![WhatsApp Image 2024-05-13 at 12 52 06_50392fd5](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/f2e95772-b63a-466d-a7b1-4ae2b721842a)|![Screenshot 2024-05-13 130053](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7c895146-c6a8-40df-bd66-995831b84c90)| ![Screenshot 2024-05-13 130411](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7ec30e5e-d544-492b-b81e-1daae92a9450)
+
+|![Screenshot 2024-05-13 103632](https://github.com/manjeetdeveloper/IoT_-Project-Obstacle--Avoiding-Robotic-Car-Usng-NodeMcu-ESP2866/assets/98460132/c7e2689b-4484-4910-8417-b7c947964a3f)|![Screenshot 2024-05-13 105722](https://github.com/manjeetdeveloper/IoT_-Project-Obstacle--Avoiding-Robotic-Car-Usng-NodeMcu-ESP2866/assets/98460132/56c40d99-c59b-494d-ba98-462b755eaadc)|![Screenshot 2024-05-13 105833](https://github.com/manjeetdeveloper/IoT_-Project-Obstacle--Avoiding-Robotic-Car-Usng-NodeMcu-ESP2866/assets/98460132/b691d6f6-e152-443d-8dab-6aef773ff66c)
+
+
+
+
+
+
+
+
+# Team Members
+
+|  Manjeet Kumar |  Dilpreet Kaur | Simran |
+| --- | --- | ---| 
+| ![black suit (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/56d9e320-9f40-4881-b2cd-87581ddc4853) manjeetkyp24@gmail.com| ![Screenshot 2024-05-11 110302](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/cc46031b-1a53-43b9-a443-8818b3bef9d9)dilpreet0604kaur@gmail.com| ![sim](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/90d9dcd4-b5cb-469e-8ec9-071cc544558c)simran1112002@gmail.com
+
+
+
+
+
+## Contact
+Have an project? DM me at 👇
+
+Drop a mail to: manjeetkyp24@gmail.com
+# Follow My Linkedin  
+https://www.linkedin.com/in/manjeetdeveloper2022/
+
+# Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+https://paypal.me/ManjeetKumarBihar?country.x=IN&locale.x=en_GB
+
